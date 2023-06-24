@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class QuizApplication {
     public static void main(String[] args) {
+        System.out.println("11111111");
         Scanner scanner = new Scanner(System.in);
         int totalQuestions = 5;
         int score = 0;
